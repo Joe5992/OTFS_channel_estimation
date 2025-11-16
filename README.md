@@ -76,8 +76,9 @@ P. Raviteja, K. T. Phan, and Y. Hong, *“Embedded pilot-aided channel estimatio
 - **Channel estimation**  
   - `Insert_Pilot.m`: Pilot insertion  
   - `martix_for_CE.m`: Extract pilot info at receiver  
-  - `Yu_zhi_est.m`: Threshold-based estimation  
+  - `Yu_zhi_est.m`: Threshold-based estimation
   - `get_parameters.m`: Recover parameters from estimated response  
   - `calculate_NMSE.m`: Compute normalized mean square error (NMSE)  
 
 ---
+墙内网址：https://gitee.com/swj1013/otfs_channel_estimation
