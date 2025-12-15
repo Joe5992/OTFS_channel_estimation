@@ -8,4 +8,4 @@ function [oumiga_v] = omega_nu(N,k)
 
 oumiga_v=oumiga_v/N;
 end
-%读者们可以自己算算泰勒展开，跟readme中的（9）式是一样的
+
